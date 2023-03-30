@@ -1,0 +1,7 @@
+{
+  "name": "bun-shebang-crlf-bug",
+  "main": "index.js",
+  "bin": {
+    "buncrlfbug": "./index.js"
+  }
+}
